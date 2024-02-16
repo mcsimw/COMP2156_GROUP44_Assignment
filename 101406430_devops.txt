@@ -1,2 +1,3 @@
 Information about COMP 2156 Dev Ops course
 This course offers students the chance to learn about procedures, protocls and best practices that a DevOps engineer brings to a workplace environment to increase productivity. 
+Some of the course outcomes will be, Effectively carry out the roles of a system or network engineer with DevOps processes, Demonstrate the strategies and skills of using suitable DevOps tools, Enhance the software development life cycle through cross collaboration among the IT staff, Utilize Version Control System workflows to develop optimized, low risk software releases and continous code integration. (Information From Course Syllabus Provided On Brightspace)
