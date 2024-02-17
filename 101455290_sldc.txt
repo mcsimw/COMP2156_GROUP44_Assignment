@@ -1,0 +1,12 @@
+Devops is very important in the software development cycle.
+Here are a couple reasons why:
+
+Helps to streamline development processes
+
+collaborate and communicate more efficiently
+
+assists in stability and reliability
+
+enables scalability
+
+encourages continuous improvement
