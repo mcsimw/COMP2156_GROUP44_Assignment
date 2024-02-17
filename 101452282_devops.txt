@@ -1,3 +1,4 @@
 COMP 2156 is a great course, currently we are being taught to use git.
 So far I have created this repository and with various members have added things to the repo on our own branches
 Eventually we will merge these branch and will need to resolve any merge conflicts that might happen
+This will teach me and my group a lot about the way git works which will help us in the context of devops enginerring, because git is a tool that is heavily used in the devops space
