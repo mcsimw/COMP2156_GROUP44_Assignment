@@ -1,3 +1,4 @@
 Learning Devops Engineering will ensure that you can do the following well:
 Ensure pepple in your development team are communicating with each other effectivly
 Monitor and log everything that happens during a development cycle to ensure no problems happen during the development cycle
+automate different tedious, repetitive tasks to maximize efficency
